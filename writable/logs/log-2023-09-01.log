@@ -1,0 +1,109 @@
+CRITICAL - 2023-09-01 10:17:58 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 10:25:15 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 10:25:30 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 10:27:06 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 10:49:43 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 10:59:11 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 11:19:11 --> Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Row::getHighestColumn()
+in APPPATH\Controllers\ExcelToPptController.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 11:19:26 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\ExcelToPptController.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci4\\app\\Controllers\\ExcelToPptController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ExcelToPptController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ExcelToPptController')
+ 4 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\ExcelToPptController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 12:10:27 --> Call to undefined method PhpOffice\PhpPresentation\PhpPresentation::getChartStyle()
+in APPPATH\Controllers\ExcelToPptController.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 12:20:27 --> Call to undefined method PhpOffice\PhpPresentation\Shape\Chart::addSeries()
+in APPPATH\Controllers\ExcelToPptController.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 12:40:20 --> File public/excel_chart_screenshot.png not found!
+in FCPATH\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Drawing.php on line 134.
+ 1 APPPATH\Controllers\ExcelToPptController.php(46): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('public/excel_chart_screenshot.png')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:14:02 --> PhpOffice\PhpPresentation\Slide\AbstractSlide::addShape(): Argument #1 ($shape) must be of type PhpOffice\PhpPresentation\AbstractShape, PhpOffice\PhpSpreadsheet\Worksheet\Drawing given, called in C:\xampp\htdocs\ci4\app\Controllers\ExcelToPptController.php on line 51
+in FCPATH\vendor\phpoffice\phppresentation\src\PhpPresentation\Slide\AbstractSlide.php on line 131.
+ 1 APPPATH\Controllers\ExcelToPptController.php(51): PhpOffice\PhpPresentation\Slide\AbstractSlide->addShape(Object(PhpOffice\PhpSpreadsheet\Worksheet\Drawing))
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:19:22 --> Call to undefined method PhpOffice\PhpPresentation\Shape\RichText\Run::addText()
+in APPPATH\Controllers\ExcelToPptController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:36:50 --> Call to undefined method PhpOffice\PhpPresentation\Shape\RichText\Run::createText()
+in APPPATH\Controllers\ExcelToPptController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:41:10 --> PhpOffice\PhpSpreadsheet\IOFactory::createWriter(): Argument #1 ($spreadsheet) must be of type PhpOffice\PhpSpreadsheet\Spreadsheet, PhpOffice\PhpPresentation\PhpPresentation given, called in C:\xampp\htdocs\ci4\app\Controllers\ExcelToPptController.php on line 64
+in FCPATH\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php on line 60.
+ 1 APPPATH\Controllers\ExcelToPptController.php(64): PhpOffice\PhpSpreadsheet\IOFactory::createWriter(Object(PhpOffice\PhpPresentation\PhpPresentation), 'PowerPoint2007')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:43:59 --> PhpOffice\PhpSpreadsheet\IOFactory::createWriter(): Argument #1 ($spreadsheet) must be of type PhpOffice\PhpSpreadsheet\Spreadsheet, PhpOffice\PhpPresentation\PhpPresentation given, called in C:\xampp\htdocs\ci4\app\Controllers\ExcelToPptController.php on line 69
+in FCPATH\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php on line 60.
+ 1 APPPATH\Controllers\ExcelToPptController.php(69): PhpOffice\PhpSpreadsheet\IOFactory::createWriter(Object(PhpOffice\PhpPresentation\PhpPresentation), 'PowerPoint2007')
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-01 13:46:22 --> Class "App\Controllers\PhpOffice\PhpPresentation\Writer\PowerPoint2007" not found
+in APPPATH\Controllers\ExcelToPptController.php on line 74.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExcelToPptController->convert()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelToPptController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
